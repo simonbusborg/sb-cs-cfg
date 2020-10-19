@@ -21,14 +21,14 @@ Steam\SteamApps\Common\Counter-Strike Global Offensive\csgo\resource <--
 
 | Option  | State |
 |---|---|
-| Global shadow quality  | VERY LOW  |
-| Model / Texture detail  |VERY LOW  |
+| Global shadow quality  | Very low  |
+| Model / Texture detail  | Low  |
 | Texture streaming  | Disbled  |
-| Effect detail  | LOW  |
-| Shader detailt  | LOW  |
+| Effect detail  | Low  |
+| Shader detailt  | Low  |
 | Boost player contrast  | Enabled  |
 | Multi core rendering  | Enabled  |
-| Multisampling anti-aliasing mode  | NONE  |
+| Multisampling anti-aliasing mode  | None  |
 | FXAA anti-aliasing  | Disabled  |
 | Texture filtering mode  | Bilinear  |
 | Wait for vertical sync  | Disabled  |
