@@ -10,15 +10,15 @@ Place files in folders as per repo.
 Steam\SteamApps\Common\Counter-Strike Global Offensive\csgo\resource <--
 3. Add "-language bananagaming" in launch options without quotes
 4. Restart your game
+
 ----
 
 **Launch options:**
 `+exec autoexec -console -novid -nojoy -high -language bananagaming -allow_third_party_software -tickrate 128 -refresh 144`
 
 ---
+
 **Video settings:**
-
-
 | Option  | State |
 |---|---|
 | Global shadow quality  | Very low  |
