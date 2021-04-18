@@ -14,7 +14,7 @@ Steam\SteamApps\Common\Counter-Strike Global Offensive\csgo\resource <--
 ----
 
 **Launch options:**
-`+exec autoexec -console -novid -nojoy -high -language bananagaming -allow_third_party_software -tickrate 128 -refresh 144`
+`+exec autoexec -console -novid -nojoy -high -language bananagaming -tickrate 128 -refresh 144`
 
 ---
 
@@ -24,9 +24,9 @@ Steam\SteamApps\Common\Counter-Strike Global Offensive\csgo\resource <--
 | Global shadow quality  | Very low  |
 | Model / Texture detail  | Low  |
 | Texture streaming  | Disbled  |
-| Effect detail  | Low  |
-| Shader detailt  | Low  |
-| Boost player contrast  | Enabled  |
+| Effect detail  | High  |
+| Shader detailt  | High  |
+| Boost player contrast  | Disabled  |
 | Multi core rendering  | Enabled  |
 | Multisampling anti-aliasing mode  | None  |
 | FXAA anti-aliasing  | Disabled  |
