@@ -1,4 +1,4 @@
-#### Config of HYPEjezus and text mod by bananagaming
+#### CSGO Config
 
 Place files in folders as per repo.
 
