@@ -4,7 +4,7 @@ Place files in folders as per repo.
 
 ---
 
-**CS2 Settings**
+**[CS2 Settings](https://github.com/simonbusborg/sb-csgo-cfg/tree/master/CS2)**
 ----
 
 **Launch options:**
@@ -32,7 +32,7 @@ Place files in folders as per repo.
 
 ---
 
-**CSGO Settings**
+****[CSGO Settings](https://github.com/simonbusborg/sb-csgo-cfg/tree/master/CSGO)****
 ----
 
 **Launch options:**
