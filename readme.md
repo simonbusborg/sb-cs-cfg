@@ -12,20 +12,15 @@
 **Video settings:**
 | Option  | State |
 |---|---|
-| Global shadow quality  | Very low  |
-| Model / Texture detail  | Low  |
-| Texture streaming  | Disbled  |
-| Effect detail  | High  |
-| Shader detailt  | High  |
 | Boost player contrast  | Disabled  |
-| Multi core rendering  | Enabled  |
-| Multisampling anti-aliasing mode  | None  |
-| FXAA anti-aliasing  | Disabled  |
-| Texture filtering mode  | Bilinear  |
 | Wait for vertical sync  | Disabled  |
-| Motion blur  | Disabled  |
-| Triple montior mode  | Disabled  |
-| Use uber shadows  | Auto:Enabled  |
+| Multisampling anti-aliasing mode  | None  |
+| Model / Texture detail  | Low  |
+| Shader detail  | Low  |
+| Particle detail  | Low  |
+| Ambient occlusion  | Medium  |
+| High dynamic range  | Performance  |
+| FidelityFX Super Resolution  | Quality  |
 
 ---
 
