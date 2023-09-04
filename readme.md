@@ -1,7 +1,4 @@
 #### CSGO Config
-
-Place files in folders as per repo.
-
 ---
 
 **[CS2 Settings](https://github.com/simonbusborg/sb-csgo-cfg/tree/master/CS2)**
