@@ -4,17 +4,39 @@ Place files in folders as per repo.
 
 ---
 
-**Text mod installation**
-1. Choose which version you want, then copy csgo_bananagaming.txt
-2. Paste the file inside this folder:
-Steam\SteamApps\Common\Counter-Strike Global Offensive\csgo\resource <--
-3. Add "-language bananagaming" in launch options without quotes
-4. Restart your game
-
+**CS2 Settings**
 ----
 
 **Launch options:**
-`+exec autoexec -console -novid -nojoy -high -language bananagaming -tickrate 128 -refresh 144`
+`+exec autoexec -console -novid -tickrate 128 -refresh 144`
+
+---
+
+**Video settings:**
+| Option  | State |
+|---|---|
+| Global shadow quality  | Very low  |
+| Model / Texture detail  | Low  |
+| Texture streaming  | Disbled  |
+| Effect detail  | High  |
+| Shader detailt  | High  |
+| Boost player contrast  | Disabled  |
+| Multi core rendering  | Enabled  |
+| Multisampling anti-aliasing mode  | None  |
+| FXAA anti-aliasing  | Disabled  |
+| Texture filtering mode  | Bilinear  |
+| Wait for vertical sync  | Disabled  |
+| Motion blur  | Disabled  |
+| Triple montior mode  | Disabled  |
+| Use uber shadows  | Auto:Enabled  |
+
+---
+
+**CSGO Settings**
+----
+
+**Launch options:**
+`+exec autoexec -console -novid -nojoy -high -tickrate 128 -refresh 144`
 
 ---
 
