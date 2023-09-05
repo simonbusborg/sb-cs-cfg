@@ -2,6 +2,9 @@
 ---
 
 **[CS2 Settings](https://github.com/simonbusborg/sb-csgo-cfg/tree/master/CS2)**
+
+![thumbnail](https://github.com/simonbusborg/sb-cs-cfg/blob/main/thumbnail.png?raw=true)
+
 ----
 
 **Launch options:**
