@@ -3,7 +3,7 @@
 
 **[CS2 Settings](https://github.com/simonbusborg/sb-csgo-cfg/tree/master/CS2)**
 
-![thumbnail](thumbnail.png)
+![thumbnail](https://dotesports.com/wp-content/uploads/2023/06/CS2-Bomb-Overpass-1.png?w=1200)
 
 ----
 
